@@ -1,3 +1,3 @@
 #!/usr/bin/python
 
-print "Merhaba Dunya"
+print "Merhaba Dunya.Benim adım Yıldıray Öcal"
